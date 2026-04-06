@@ -1,4 +1,4 @@
----
+[the-ai-standard-brand_references_typography.md](https://github.com/user-attachments/files/26503813/the-ai-standard-brand_references_typography.md)---
 name: the-ai-standard-brand
 description: >
   Apply The AI Standard's brand identity to any output — HTML, React, Word documents, proposals,
@@ -142,7 +142,9 @@ See `references/tone.md` for copy patterns and examples.
 - Footer: Navy band, contact details in Stone/Bronze
 
 ### Social / Graphics
-- Square or portrait format
+- Square or portrait format[Uploading the-ai-sta[the-ai-standard-brand_references_tone.md](https://github.com/user-attachments/files/26503814/the-ai-standard-brand_references_tone.md)[the-ai-standard-brand_references_colours.md](https://github.com/user-attachments/files/26503815/the-ai-standard-brand_references_colours.md)
+ndard-brand_references_typography.md…]()
+
 - Logo always top-centre on Stone, or centre on Navy
 - Tagline beneath logo for brand-awareness posts
 - Keep to the six-colour palette strictly
